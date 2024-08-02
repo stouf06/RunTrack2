@@ -1,0 +1,28 @@
+.global {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+}
+.a {
+    border-radius: 10px;
+    background-color: grey;
+}
+.b {
+    border-radius: 10px;
+    background-color: grey;
+}
+.calcul {
+    border-radius: 10px;
+    background-color: grey;
+}
+.resultat {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: grey;
+}
+button {
+    border-radius: 100%;
+    background-color: black;
+}
